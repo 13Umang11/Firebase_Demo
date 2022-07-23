@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="facebook_app_id">548709293317592</string>
+    <string name="fb_login_protocol_scheme">fb548709293317592</string>
+    <string name="facebook_client_token">ba383164b0c0749c2a7bb0ffbc8e73d7</string>
+</resources>
